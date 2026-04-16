@@ -16,6 +16,7 @@
 
 # Hack WIFI dengan Aplikas Termux untuk bobol password wifi 
 
+- hack wifi termux adalah kegiatan yang dapat anda lakukan untuk memperoleh password wifi di sekitar anda, tapi wajib hp android anda harus di root, karena kita juga menggunakan sistem android untuk menjalankan Script Hack Wifi.
 
 # Persyaratan
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
