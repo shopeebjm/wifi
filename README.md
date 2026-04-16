@@ -28,7 +28,7 @@ Unduh Script Dibawah Ini
 
 👇👇
 
-[![Script wifi](https://img.shields.io/badge/Script_wifi-17%2B-blue.svg?style=flat)](http://kiplymacho.blogspot.com)
+[![Script wifi](https://img.shields.io/badge/Script_wifi-17%2B-blue.svg?style=flat)](https://sfile.co/jz4P8uhGCyH)
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
