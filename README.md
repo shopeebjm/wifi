@@ -14,6 +14,9 @@
 
 </p>
 
+# Hack WIFI dengan Aplikas Termux untuk bobol password wifi 
+
+
 # Persyaratan
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
@@ -84,25 +87,5 @@ Unduh Script Dibawah Ini
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285751032225)
 [![Telegram](https://img.shields.io/badge/Forum-Diskusi-blue?style=for-the-badge&logo=forum)](https://t.me/shopeebjm)
 <a href="https://youtube.com/@shopee_banjarmasin"><img title="YouTube" src="https://img.shields.io/badge/YouTube-@Shopee_Banjarmasin-red?style=for-the-badge&logo=Youtube"></a>
-
-Hack WIFI dengan Aplikas Termux untuk bobol password wifi 
-
-masukan kode perintah wajib di bawah ini
- apt update
-apt upgrade
-apt install git
-apt install wget
-apt install proot
-pkg install curl
-pkg install clang
-pkg install tsudo
-pkg install tsu
-
-kemudian anda download script hack wifi seperti di bawah ini
- git clone https://github.com/kumpulanremaja/wifi
- cd wifi
-chmod +x wifi-hacker.sh
-sh wifi-hacker.sh
-
 
 untuk selengkapnya cek di https://www.kumpulanremaja.com/2019/09/bobol-wifi-dengan-termux.html
