@@ -34,7 +34,7 @@ Unduh Script Dibawah Ini
 
 [![Script wifi](https://img.shields.io/badge/Script_wifi-17%2B-blue.svg?style=flat)](https://sfile.co/jz4P8uhGCyH)
 
-[![Android](https://img.shields.io/badge/Android-15-black.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
+[![Android](https://img.shields.io/badge/Android-15-blue.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
 
 ---
 
