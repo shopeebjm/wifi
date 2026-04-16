@@ -30,10 +30,6 @@ Unduh Script Dibawah Ini
 
 [![Script wifi](https://img.shields.io/badge/Script_wifi-17%2B-blue.svg?style=flat)](http://kiplymacho.blogspot.com)
 
-<a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
-<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
-</a>
-
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
 ---
@@ -41,7 +37,7 @@ Unduh Script Dibawah Ini
 ## ⚠️ Disclaimer
 
 > Alat ini dikembangkan khusus untuk tujuan pendidikan dan pengujian penetrasi yang diizinkan saja.
-> Pengembang Evil-Eye tidak bertanggung jawab atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini.
+> Pengembang `wifi` tidak bertanggung jawab atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini.
 > Menggunakan alat ini terhadap individu atau sistem apa pun tanpa izin tertulis yang jelas adalah ilegal.
 > Dengan menggunakan alat ini, Anda setuju bahwa Anda sepenuhnya bertanggung jawab atas tindakan Anda.
 
